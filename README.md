@@ -14,7 +14,25 @@ A simple and modern notes application built with React. This app lets you create
 - Persistent storage with localStorage
 
 ## Project Structure
-. ├── .gitignore ├── index.html ├── package.json ├── vite.config.js └── src ├── App.jsx ├── main.jsx ├── assets/ ├── components/ │ ├── Icons/ │ ├── Panel/ │ ├── QuickviewNotes/ │ ├── Sidebar/ │ ├── TagsFilters/ │ └── UI/ ├── hooks/ ├── store/ ├── styles/ └── utils/
+├── .gitignore
+├── index.html
+├── package.json
+├── vite.config.js
+└── src
+    ├── App.jsx
+    ├── main.jsx
+    ├── assets/
+    ├── components/
+    │   ├── Icons/
+    │   ├── Panel/
+    │   ├── QuickviewNotes/
+    │   ├── Sidebar/
+    │   ├── TagsFilters/
+    │   └── UI/
+    ├── hooks/
+    ├── store/
+    ├── styles/
+    └── utils/
 
 ## Getting Started
 
