@@ -14,6 +14,7 @@ A simple and modern notes application built with React. This app lets you create
 - Persistent storage with localStorage
 
 ## Project Structure
+```
 .
 ├── .gitignore
 ├── index.html
@@ -34,6 +35,7 @@ A simple and modern notes application built with React. This app lets you create
     ├── store/
     ├── styles/
     └── utils/
+```
 
 ## Getting Started
 
